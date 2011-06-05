@@ -100,7 +100,13 @@ Apache license (http://www.apache.org/licenses/LICENSE-2.0.html)
   <body style="font-family: Arial;border: 0 none;">
     <h1>wOBA 10-day Moving Average</h1>
     <div id="visualization" style="width: 1024px; height: 768px;"></div>
+    <div>
+        <p>Created by <a href="http://twitter.com/sirsean">Sean Schulte</a>.</p>
+        <ul>
+            <li><a href="https://github.com/sirsean/MLB-Datafeed-Parser">MLB Datafeed Parser</a></li>
+            <li><a href="https://github.com/sirsean/MLB-Datafeed-Viewer">MLB Datafeed Viewer</a></li>
+        </ul>
+    </div>
   </body>
 </html>
-​
 
