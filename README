@@ -1,0 +1,15 @@
+This is a simple web page to display the results of the MLB-Datafeed-Parser using the Google Visualization API.
+
+First, set up a file called "config.ini" with the relative path to your MLB-Datafeed-Parser output directory:
+
+    path=/../../code/MLB-Datafeed-Parser/output/
+
+Then, generate a file, over with the MLB-Datafeed-Parser:
+
+    rake parse_team[2011-04-01,min,xml]
+
+Get the filedate code out of the filename (which is printed by the previous rake task), and go to:
+
+    /index.php?file=2011-06-05_14-04-57
+
+You should see a nice graph.
