@@ -59,7 +59,7 @@ Apache license (http://www.apache.org/licenses/LICENSE-2.0.html)
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>
-      Google Visualization API Sample
+      wOBA 10-day Moving Average
     </title>
     <script type="text/javascript" src="http://www.google.com/jsapi"></script>
     <script type="text/javascript">
